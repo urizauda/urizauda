@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @urizauda a Full-stack developer
 - 👀 I’m interested in Frontend/Backend position
 - 🌱 I’m currently learning Algorithms & Data structure
-- 💞️ I’m looking to collaborate on new projects that better our lives
+- 💞️ I’m looking to collaborate on new projects that turning problems into progress
 - 📫 How to reach me urizauda@gmail.com
 
 <!---
